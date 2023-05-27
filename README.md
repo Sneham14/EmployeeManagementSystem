@@ -10,3 +10,24 @@ Data Validation and Error Handling: The system incorporates data validation and 
 Efficient Data Storage: Employee data is stored and retrieved using database management techniques. The system utilizes SQLite3 as the database backend, ensuring efficient data storage and retrieval operations.
 
 Comprehensive Salary Analysis: The system provides comprehensive salary analysis through graphical representation. It integrates charting libraries, such as Matplotlib, to generate insightful graphs and enhance data visualization. Users can gain valuable insights into employee salaries based on different parameters.
+
+1. MainPage
+![MainPage](screenshots/MainPageEMS.png)
+
+2. AddEmployeePage
+![AddEmployeePage](screenshots/AddEmployeePage.png)
+
+3. Viewpage
+![Viewpage](screenshots/ViewPage.png)
+
+4. UpdatePage
+![UpdatePage](screenshots/UpdatePage.png)
+
+5. DeletePage
+![Deletepage](screenshots/DeletePage.png)
+
+6. PlotdataPage
+![PlotdataPage](screenshots/Plotdatapage.png)
+
+7. BarChart
+![BarChart](screenshots/Barchart.png)
